@@ -1,5 +1,6 @@
-/node_modules
-!/node_modules/amfe-flexible
+node_modules
+
+!node_modules/amfe-flexible
 /dev
 /.pack-tmp
 /public
