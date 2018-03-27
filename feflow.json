@@ -7,7 +7,7 @@
         "minifyCSS": true,
         "minifyJS": true,
         "inlineCSS": true,
-        "usePx2rem": true,
+        "usePx2rem": false,
         "remUnit": 102,
         "remPrecision": 6,
         "inject": true,
