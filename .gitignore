@@ -1,0 +1,4 @@
+node_modules/
+generators/git.js
+.DS_Store
+.vscode
